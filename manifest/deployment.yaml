@@ -15,5 +15,5 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: inanamu/go-helloworld-2:2236885982e63b20d15b68d3ddc800ba7b88a876
+      - image: ghcr.io/2022-4400-exp/4423-go-helloworld-2:2236885982e63b20d15b68d3ddc800ba7b88a876@sha256:9ed770a54ae00574333a0ee197bda203838e7c42ebd165422d039007feaaea22
         name: go-helloworld-2
